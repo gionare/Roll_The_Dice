@@ -1,6 +1,6 @@
 # Pig Game
 
-![Screenshot](assets/Screenshot.png)
+<img src="assets/gameplay.png" alt="screenshot" width="500">
 
 ## Table of Contents
 
