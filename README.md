@@ -1,7 +1,7 @@
 # Pig Game
 
 <img src="assets/gameplay.png" alt="screenshot" width="700">
-<img src="assets/dice-1.png"><img src="assets/dice-2.png"><img src="assets/dice-3.png"><img src="assets/dice-4.png"><img src="assets/dice-5.png"><img src="assets/dice-6.png">
+<img src="assets/dice-1.png" width="150"><img src="assets/dice-2.png" width="150"><img src="assets/dice-3.png" width="150"><img src="assets/dice-4.png" width="150"><img src="assets/dice-5.png" width="150"><img src="assets/dice-6.png" width="150">
 
 ## Table of Contents
 
