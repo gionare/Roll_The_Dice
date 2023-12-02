@@ -1,6 +1,6 @@
 # Pig Game
 
-<img src="assets/gameplay.png" alt="screenshot" width="500">
+<img src="assets/gameplay.png" alt="screenshot" width="700">
 
 ## Table of Contents
 
