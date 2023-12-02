@@ -2,12 +2,12 @@
 
 <img src="assets/gameplay.png" alt="screenshot" width="700">
 <p align="left">
-  <img src="assets/dice-1.png" width="70">
-  <img src="assets/dice-2.png" width="70">
-  <img src="assets/dice-3.png" width="70">
-  <img src="assets/dice-4.png" width="70">
-  <img src="assets/dice-5.png" width="70">
-  <img src="assets/dice-6.png" width="70">
+  <img src="assets/dice-1.png" width="100">
+  <img src="assets/dice-2.png" width="100">
+  <img src="assets/dice-3.png" width="100">
+  <img src="assets/dice-4.png" width="100">
+  <img src="assets/dice-5.png" width="100">
+  <img src="assets/dice-6.png" width="100">
 </p>
 
 
